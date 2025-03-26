@@ -6,7 +6,7 @@ This project recoded from jaksel-language!.
 
 # Kalteng Script
 
-Jaksel Script is a new programming language, very modern, easy to learn, using Indonesia-slang language. No programming experience required.
+kalteng Script is a new programming language, very modern, easy to learn, using Indonesia-slang language. No programming experience required.
 
 Thank you for all your contributions, share, star, and everything.
 
@@ -18,10 +18,10 @@ git clone https://github.com/Aufaruq/kalteng-language.git
 
 ### Run
 
-If you install from npm, run jaksel script using `jaksel` command
+If you install from npm, run kalteng script using `kalteng` command
 
 ```bash
-jaksel example/example1.kalteng
+kalteng example/example1.kalteng
 ```
 
 Or run from this repository
@@ -31,7 +31,7 @@ node kalteng-interpreter.js example/example1.kalteng
 
 ## Table Of Content
 
-* [Jaksel Script](#kalteng-script)
+* [kalteng Script](#kalteng-script)
    * [Instalation &amp; Run](#instalation--run)
    * [Table Of Content](#table-of-content)
    * [Example](#example)
@@ -87,11 +87,11 @@ Some command just like javascript, the only different is keyword and this langua
 
 ### Disclaimer
 
-This project just for fun, I don't want to hurt anyone. Just from idea "what if jaksel language is a programming language" and make it true. This project only for education purpose, not for production ready.
+This project just for fun, I don't want to hurt anyone. Just from idea "what if kalteng language is a programming language" and make it true. This project only for education purpose, not for production ready.
 
 ## Showcase
 
-Some cool project from you, submit your project like highlight text, jaksel-to-js, etc. Make PR link to your repo !. Don't limit your creativity
+Some cool project from you, submit your project like highlight text, kalteng-to-js, etc. Make PR link to your repo !. Don't limit your creativity
 
 ### Highlight Text Editor
-- [vscode-jaksel-language-support](https://github.com/ngupuk/vscode-jaksel-language-support) visual studio code extension for syntax highlighting, code snippet, and auto formatting
+- [vscode-kalteng-language-support](https://github.com/ngupuk/vscode-kalteng-language-support) visual studio code extension for syntax highlighting, code snippet, and auto formatting
