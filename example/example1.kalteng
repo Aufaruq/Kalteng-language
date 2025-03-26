@@ -1,0 +1,13 @@
+amunnya umur itu 21
+tampaikan "Umur Pian " + umur
+amun umur lebih gede 20
+    tampaikan "Pian tua"
+    amunnya umurgua itu umur + 10
+    tampaikan "amun ulun umurnya " + umurgua
+    amun umurgua lebih gede 30
+        tampaikan "ulun lebih tua"
+    udaham
+amunsik
+    tampaikan "dasar bocil"
+udaham
+tampaikan "sesudah am"

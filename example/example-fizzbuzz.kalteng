@@ -1,0 +1,17 @@
+ulihbalik nomor endup 100
+	amun nomor gak 0
+		amunnya hasil itu ""
+		bujuram fizz itu nomor % 3
+		bujuram buzz itu nomor % 5
+		amun fizz itu 0
+			inilawan hasil itu hasil + "fizz"
+		udaham
+		amun buzz itu 0
+			inilawan hasil itu hasil + "buzz"
+		udaham
+		amun hasil itu ""
+			inilawan hasil itu nomor
+		udaham
+		tampaikan hasil
+	udaham
+udaham

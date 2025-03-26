@@ -1,0 +1,49 @@
+jadigasan my_story
+	amunnya umur itu 21
+	tampaikan "Umur lu " + umur
+sesudaham
+
+jadigasan ngeloop berapaKali
+		ulihbalik i endup berapaKali
+			amun i lebih gede 3
+				tampaikan "loop ke " + i
+			munhandak i itu 3
+				tampaikan "loop ke 3 : " + (i == 3)
+			udaham
+		udaham
+sesudaham
+
+jadigasan fungsi_param a
+	tampaikan "a: " + a
+sesudaham
+
+jadigasan fungsiMultiParam a b c
+	tampaikan "argumen pertama: " + a
+	tampaikan "argumen kedua: " + b
+	tampaikan "argumen ketiga: " + c
+sesudaham
+
+manggilmah my_story
+tampaikan "\n"
+
+manggilmah ngeloop 20
+tampaikan "\n"
+
+amunnya nama itu "aufa"
+
+manggilmah fungsi_param nama
+tampaikan "\n"
+
+manggilmah fungsi_param "alok"
+tampaikan "\n"
+
+manggilmah fungsi_param 3
+tampaikan "\n"
+
+manggilmah fungsiMultiParam 3 4 5
+tampaikan "\n"
+
+amunnya nama2 itu "hayato"
+
+manggilmah fungsiMultiParam 2 nama2 "kam cantik banget \"kapan kita jadian\" dari aufa"
+tampaikan "\n"

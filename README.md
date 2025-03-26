@@ -1,10 +1,10 @@
-## (人◕‿◕) 𝕒𝕣𝕔𝕙𝕚𝕖𝕧𝕖𝕕 (•◡•)
+## Recoded From Jaksel-Language by Rio Chandra
 
-This project archived!, You still can clone/fork if you want to build for your own. I do this because no further feature and this project only just for fun. Thanks for all your support!
+This project recoded from jaksel-language!.
 
 ---
 
-# Jaksel Script
+# Kalteng Script
 
 Jaksel Script is a new programming language, very modern, easy to learn, using Indonesia-slang language. No programming experience required.
 
@@ -14,12 +14,12 @@ Thank you for all your contributions, share, star, and everything.
 
 Install from npm
 ```bash
-npm install -g jaksel-language
+npm install -g Kalteng-language
 ```
 Or Clone this repository
 
 ```bash
-git clone https://github.com/RioChndr/jaksel-language.git
+git clone https://github.com/Aufaruq/kalteng-language.git
 ```
 
 ### Run
@@ -27,17 +27,17 @@ git clone https://github.com/RioChndr/jaksel-language.git
 If you install from npm, run jaksel script using `jaksel` command
 
 ```bash
-jaksel example/example1.jaksel
+jaksel example/example1.kalteng
 ```
 
 Or run from this repository
 ```
-node jaksel-interpreter.js example/example1.jaksel
+node kalteng-interpreter.js example/example1.kalteng
 ```
 
 ## Table Of Content
 
-* [Jaksel Script](#jaksel-script)
+* [Jaksel Script](#kalteng-script)
    * [Instalation &amp; Run](#instalation--run)
    * [Table Of Content](#table-of-content)
    * [Example](#example)
@@ -53,36 +53,36 @@ node jaksel-interpreter.js example/example1.jaksel
 Example : 
 
 ```
-literally umur itu 21
-spill "Umur lu " + umur
-kalo umur lebih gede 20
-  spill "Elu tua"
-  literally umurgua itu umur + 10
-  spill "Kalo gua umurnya " + umurgua
-  kalo umurgua lebih gede 30
-    spill "gua lebih tua"
-  udahan
-kalogak
-  spill "dasar bocil"
-udahan
-spill "Udahan ah"
+amunnya umur itu 21
+tampaikan "Umur lu " + umur
+amun umur lebih gede 20
+  tampaikan "Elu tua"
+  amunnya umurgua itu umur + 10
+  tampaikan "amun gua umurnya " + umurgua
+  amun umurgua lebih gede 30
+    tampaikan "gua lebih tua"
+  udaham
+amunsik
+  tampaikan "dasar bocil"
+udaham
+tampaikan "udaham ah"
 ```
 
 ```
-literally jumlah itu 10
-spill "Jumlah: " + jumlah
+amunnya jumlah itu 10
+tampaikan "Jumlah: " + jumlah
 
-whichis jumlah itu 11
-spill "Jumlah: " + jumlah
+inilawan jumlah itu 11
+tampaikan "Jumlah: " + jumlah
 
-literally isHidup itu positive vibes
-spill "is hidup :" + isHidup
+amunnya isHidup itu positive vibes
+tampaikan "is hidup :" + isHidup
 
-fomo i endup 10
-  kalo i lebih gede 3
-    spill "loop ke " + i
-  udahan
-udahan
+ulihbalik i endup 10
+  amun i lebih gede 3
+    tampaikan "loop ke " + i
+  udaham
+udaham
 ```
 
 ### Command
@@ -100,5 +100,4 @@ This project just for fun, I don't want to hurt anyone. Just from idea "what if 
 Some cool project from you, submit your project like highlight text, jaksel-to-js, etc. Make PR link to your repo !. Don't limit your creativity
 
 ### Highlight Text Editor
-- [vim-jaksel](https://github.com/cocatrip/vim-jaksel) jaksel programming language plugin for (n)vim
 - [vscode-jaksel-language-support](https://github.com/ngupuk/vscode-jaksel-language-support) visual studio code extension for syntax highlighting, code snippet, and auto formatting

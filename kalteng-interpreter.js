@@ -8,7 +8,7 @@ const parseArgs = () => {
 
   if (args.length < 3) {
     console.log(
-      "Require file args, ex: 'node jaksel-interpreter.js example/example1.jaksel' or 'jaksel example/example1.jaksel'"
+      "Require file args, ex: 'node kalteng-interpreter.js example/example1.kts' or 'kalteng example/example1.kts'"
     );
     return false;
   }

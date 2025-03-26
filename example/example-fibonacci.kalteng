@@ -1,0 +1,17 @@
+amunnya bilangan1 itu 0
+amunnya bilangan2 itu 1
+amunnya bilangan3 itu 0
+
+amunnya output itu bilangan1 + ', ' + bilangan2
+
+ulihbalik i endup 10
+
+    inilawan bilangan3 itu bilangan1 + bilangan2
+    inilawan output itu output + ", " + bilangan3
+    inilawan bilangan1 itu bilangan2
+    inilawan bilangan2 itu bilangan3
+
+udaham
+
+tampaikan output
+

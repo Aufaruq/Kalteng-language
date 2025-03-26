@@ -5,38 +5,38 @@ Some command just like javascript, the only different is keyword and this langua
 
 Assign variable
 ```
-literally foo itu "hello world"
+amunnya foo itu "hello world"
 // let foo = "hello world"
 
-seriously foo itu 123
+bujuram foo itu 123
 // const foo = 123
 ```
 
 Reassign variable
 ```
-whichis foo itu "hello world 2"
+inilawan foo itu "hello world 2"
 // foo = "hello world 2"
 ```
 
 **Boolean**
 
 ```
-literally foo itu positive vibes
+amunnya foo itu positive vibes
 // let foo = true
 
-literally foo itu worth it
+amunnya foo itu worth it
 // let foo = true
 
-literally foo itu negative vibes
+amunnya foo itu negative vibes
 // let foo = false
 ```
 
 ### Print / Console.log
 ```
-spill "Hello world"
+tampaikan "Hello world"
 // console.log("Hello world")
 
-spill foo
+tampaikan foo
 // console.log(foo)
 ```
 
@@ -44,9 +44,9 @@ spill foo
 ### Condition
 
 ```
-kalo foo itu "Hello world"
-  spill "its hello world"
-udahan
+amun foo itu "Hello world"
+  tampaikan "its hello world"
+udaham
 
 // transform to
 if(foo == "Hello world"){
@@ -55,13 +55,13 @@ if(foo == "Hello world"){
 ```
 
 ```
-kalo foo lebih gede 3
-  spill "its bigger than 3"
-perhaps foo itu 3
-  spill "foo is 3"
-kalogak
-  spill "its smaller than 3"
-udahan
+amun foo lebih gede 3
+  tampaikan "its bigger than 3"
+munhandak foo itu 3
+  tampaikan "foo is 3"
+amunsik
+  tampaikan "its smaller than 3"
+udaham
 
 // transform to
 if(foo > 3){
@@ -85,11 +85,11 @@ Comparison :
 
 #### **`For` loop**:
 ```
-fomo i endup 10
-  kalo i lebih gede 3
-    spill "loop ke " + i
-  udahan
-udahan
+ulihbalik i endup 10
+  amun i lebih gede 3
+    tampaikan "loop ke " + i
+  udaham
+udaham
 
 // transform to
 for (let i = 0; i < 10; i++) {
@@ -101,9 +101,9 @@ for (let i = 0; i < 10; i++) {
 
 #### **`For of` loop**:
 ```
-fomo semua foo dari bar
-  spill foo
-udahan
+ulihbalik semua foo dari bar
+  tampaikan foo
+udaham
 
 // transform to
 for (const foo of bar) {
@@ -113,59 +113,59 @@ for (const foo of bar) {
 
 #### **`break`** and **`continue`**:
 ```
-stop
+sudahi
 // break;
 
-skip
+lanjuti
 // continue;
 ```
 
 ### Function
 ```
-so about my_story
-    literally umur itu 21
-    spill "Umur lu " + umur
-thats it sih
+jadigasan my_story
+    amunnya umur itu 21
+    tampaikan "Umur lu " + umur
+sesudaham
 
-call my_story
+manggilmah my_story
 
-so about fungsi_param_banyak a b c
-    spill "a: " + a
-    spill "b: " + b
-    spill "c: " + c
-thats it sih
+jadigasan fungsi_param_banyak a b c
+    tampaikan "a: " + a
+    tampaikan "b: " + b
+    tampaikan "c: " + c
+sesudaham
 
-call fungsi_param_banyak 3 4 5
+manggilmah fungsi_param_banyak 3 4 5
 ```
 
 ### Async Function
 ```
-overthinking my_story
-    literally umur itu 21
-    spill "Umur lu " + umur
-thats it sih
+kepikiran my_story
+    amunnya umur itu 21
+    tampaikan "Umur lu " + umur
+sesudaham
 
-call my_story
+manggilmah my_story
 
-so about fungsi_param_banyak a b c
-    spill "a: " + a
-    spill "b: " + b
-    spill "c: " + c
-thats it sih
+jadigasan fungsi_param_banyak a b c
+    tampaikan "a: " + a
+    tampaikan "b: " + b
+    tampaikan "c: " + c
+sesudaham
 
-call fungsi_param_banyak 3 4 5
+manggilmah fungsi_param_banyak 3 4 5
 ```
 
 ### Try Catch & Exception
 ```
-trust issue
-  spill "Something wrong"
-  toxic "Error message"
-backstab
-  spill "Catch error"
-yaudahlahya
-  spill "finish finally"
-udahan
+mencoba dolo
+  tampaikan "Something wrong"
+  salahway "Error message"
+tikamHalus
+  tampaikan "Catch error"
+yaudaham
+  tampaikan "finish finally"
+udaham
 
 
 // transform to

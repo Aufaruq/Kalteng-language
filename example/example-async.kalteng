@@ -1,0 +1,6 @@
+kepikiran my_story
+    amunnya umur itu 21
+    tampaikan "Umur pian " + umur
+sesudaham
+
+manggilmah my_story true 2

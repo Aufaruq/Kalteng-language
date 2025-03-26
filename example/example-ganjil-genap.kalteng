@@ -1,0 +1,12 @@
+amunnya bilanganAkhir itu 10
+
+ulihbalik i endup bilanganAkhir
+    amunnya cekGenap itu i%2
+    amun i lebih gede 0
+        amun cekGenap itu 0
+            tampaikan "Bilangan "+i+" - Genap"
+        amunsik
+            tampaikan "Bilangan "+i+" - Ganjil" 
+        udaham
+    udaham
+udaham

@@ -1,0 +1,16 @@
+amunnya jumlah itu 10
+tampaikan "Jumlah: " + jumlah
+
+inilawan jumlah itu 11
+tampaikan "Jumlah: " + jumlah
+
+amunnya isHidup itu positive vibes
+tampaikan "is hidup :" + isHidup
+
+ulihbalik i endup 10
+    amun i lebih gede 3
+        tampaikan "loop ke " + i
+    munhandak i itu 3
+        tampaikan "loop ke 3 : " + (i == 3)
+    udaham
+udaham
