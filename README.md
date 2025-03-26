@@ -11,9 +11,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
 Thank you for all your contributions, share, star, and everything.
 
 ## Instalation & Run
-```
 Clone this repository
-
 ```bash
 git clone https://github.com/Aufaruq/kalteng-language.git
 ```
