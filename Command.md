@@ -124,7 +124,7 @@ lanjuti
 ```
 jadigasan my_story
     amunnya umur itu 21
-    tampaikan "Umur lu " + umur
+    tampaikan "umur pian " + umur
 sesudaham
 
 manggilmah my_story
@@ -142,7 +142,7 @@ manggilmah fungsi_param_banyak 3 4 5
 ```
 kepikiran my_story
     amunnya umur itu 21
-    tampaikan "Umur lu " + umur
+    tampaikan "umur pian " + umur
 sesudaham
 
 manggilmah my_story

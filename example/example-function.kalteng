@@ -1,6 +1,6 @@
 jadigasan my_story
 	amunnya umur itu 21
-	tampaikan "Umur lu " + umur
+	tampaikan "umur pian " + umur
 sesudaham
 
 jadigasan ngeloop berapaKali

@@ -4,7 +4,7 @@
   "description": "kalteng programming language",
   "main": "kalteng-interpreter.js",
   "bin": {
-    "jaksel": "./kalteng-interpreter.js"
+    "kalteng": "./kalteng-interpreter.js"
   },
   "scripts": {
     "test": "jest"
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/Aufaruq/kalteng-language"
   },
-  "author": "Rio Chandra",
+  "author": "Rio Chandra // recode Aufa",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Aufaruq/kalteng-language/issues"
