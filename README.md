@@ -94,4 +94,4 @@ This project just for fun, I don't want to hurt anyone. Just from idea "what if 
 Some cool project from you, submit your project like highlight text, kalteng-to-js, etc. Make PR link to your repo !. Don't limit your creativity
 
 ### Highlight Text Editor
-- [vscode-kalteng-language-support](https://github.com/ngupuk/vscode-kalteng-language-support) visual studio code extension for syntax highlighting, code snippet, and auto formatting
+- [vscode-kalteng-language-support](https://github.com/Aufaruq/vscode-kalteng-language-support) visual studio code extension for syntax highlighting, code snippet, and auto formatting
