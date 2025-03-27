@@ -50,11 +50,11 @@ Example :
 amunnya umur itu 21
 tampaikan "umur pian " + umur
 amun umur lebih gede 20
-  tampaikan "Elu tua"
-  amunnya umurulunitu umur + 10
-  tampaikan "amun ulunumurnya " + umurgua
-  amun umurulunlebih gede 30
-    tampaikan "ulunlebih tua"
+  tampaikan "pian tua"
+  amunnya umur itu umur + 10
+  tampaikan "amun ulun umurnya " + umur
+  amun umur lebih gede 30
+    tampaikan "ulun lebih tua"
   udaham
 amunsik
   tampaikan "dasar bocil"
